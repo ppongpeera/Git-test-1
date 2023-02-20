@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Story</title>
+</head>
+<body>
+    <h1>Bibliography</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate quod quaerat qui eligendi non reprehenderit voluptatum consequuntur explicabo aperiam quia doloremque porro accusantium consequatur laudantium, maiores repudiandae? Delectus, dolores ut.</p>
+    <hr>
+    <h1>Important</h1>
+    <h2>Important</h2>
+    <h3>Important</h3>
+    <h4>Important</h4>
+    <h5>Important</h5>
+    <h6>Important</h6>
+</body>
+</html>
